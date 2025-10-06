@@ -4,8 +4,8 @@ Practica para ISO
 
 # Indice
 
- 1.- Introducción
- 2.- Conceptos Básicos
- 3.- Tips
+ 1. Introducción
+ 2. Conceptos Básicos
+3.  Tips
  
  Conclusión
